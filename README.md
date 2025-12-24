@@ -1,20 +1,32 @@
 # 30-Day-MyDFIR-Elastic-Challenge
+
 30-Day MyDFIR Elastic Challenge
+
 Overview
+
 This repository documents my 30-Day MyDFIR Elastic Challenge, a hands-on SOC and DFIR lab project focused on deploying, operating, and investigating security events using the Elastic Stack (Elasticsearch, Logstash, Kibana). The project simulates real-world enterprise monitoring by combining endpoint telemetry, attack simulation, alerting, dashboards, and incident workflow integration.
 This challenge emphasizes practical detection engineering, incident investigation, and SOC workflows, rather than theory alone.
 
 Objectives
+
 •	Deploy a full Elastic Stack in a cloud-based lab
+
 •	Centralize log ingestion from Windows and Linux endpoints
+
 •	Implement endpoint telemetry using Sysmon and Elastic Agent
+
 •	Simulate real-world attacks (Brute Force, RDP abuse, C2)
+
 •	Build alerts and dashboards for SOC monitoring
+
 •	Perform DFIR-style investigations
+
 •	Integrate alerting with a ticketing system
 
-Lab Architecture
+#Lab Architecture
+
 Core Components:
+
 •	Elasticsearch
 •	Logstash
 •	Kibana
