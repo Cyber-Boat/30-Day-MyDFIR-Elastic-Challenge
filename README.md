@@ -10,8 +10,7 @@ This repository documents my 30-Day MyDFIR Elastic Challenge, a hands-on SOC and
 This challenge emphasizes practical detection engineering, incident investigation, and SOC workflows, rather than theory alone.
 
 
-#Objectives
-
+## Objectives
 
 •	Deploy a full Elastic Stack in a cloud-based lab
 
@@ -28,8 +27,7 @@ This challenge emphasizes practical detection engineering, incident investigatio
 •	Integrate alerting with a ticketing system
 
 
-#Lab Architecture
-
+## Lab Architecture
 
 Core Components:
 
@@ -49,8 +47,7 @@ Core Components:
 
 
 
-Endpoints:
-
+## Endpoints:
 
 •	Windows Server 2022
 
@@ -60,14 +57,12 @@ Endpoints:
 
 
 
-Infrastructure:
-
+## Infrastructure:
 
 •	Cloud-hosted virtual machines (Vultr)
 
 
-Tools & Technologies
-
+##Tools & Technologies
 
 •	Elastic Stack (ELK)
 
@@ -90,10 +85,10 @@ Tools & Technologies
 •	Gitbash 
 
 
-30-Day Challenge Breakdown
+## 30-Day Challenge Breakdown
 
 
-#Day 1–4: Elastic Stack Foundations
+### Day 1–4: Elastic Stack Foundations
 
 •	Logical architecture design
 
@@ -102,7 +97,7 @@ Tools & Technologies
 •	Elasticsearch and Kibana setup
 
 
-#Day 5–10: Endpoint Telemetry
+# Day 5–10: Endpoint Telemetry
 
 
 •	Windows Server 2022 installation
