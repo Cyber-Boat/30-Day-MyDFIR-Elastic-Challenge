@@ -62,7 +62,7 @@ Core Components:
 •	Cloud-hosted virtual machines (Vultr)
 
 
-##Tools & Technologies
+## Tools & Technologies
 
 •	Elastic Stack (ELK)
 
@@ -97,7 +97,7 @@ Core Components:
 •	Elasticsearch and Kibana setup
 
 
-# Day 5–10: Endpoint Telemetry
+### Day 5–10: Endpoint Telemetry
 
 
 •	Windows Server 2022 installation
@@ -109,7 +109,7 @@ Core Components:
 •	Log ingestion into Elasticsearch
 
 
-#Day 11–17: Detection & Visualization
+### Day 11–17: Detection & Visualization
 
 
 •	Brute force attack concepts
@@ -123,7 +123,7 @@ Core Components:
 •	RDP security overview
 
 
-#Day 18–22: Command and Control
+### Day 18–22: Command and Control
 
 
 •	C2 fundamentals
@@ -135,7 +135,7 @@ Core Components:
 •	C2 alerting and dashboards
 
 
-#Day 23–25: SOC Workflow Integration
+### Day 23–25: SOC Workflow Integration
 
 
 •	Ticketing system concepts
@@ -145,7 +145,7 @@ Core Components:
 •	Integration of OS Ticket with Elastic alerts
 
 
-#Day 26–28: Incident Investigations
+### Day 26–28: Incident Investigations
 
 
 •	SSH brute force attack investigation
@@ -156,7 +156,7 @@ Core Components:
 
 
 
-#Day 29–30: Endpoint Protection & Optimization
+### Day 29–30: Endpoint Protection & Optimization
 
 
 •	Elastic Defend installation
@@ -165,7 +165,7 @@ Core Components:
 
 
 
-#Screenshots & Evidence
+## Screenshots & Evidence
 
 The following figures document key stages of the lab implementation, attack simulation, detection, and investigation. All screenshots were captured from the live lab environment.
 
@@ -184,8 +184,7 @@ Figure 6: Mythic C2 dashboard showing active callbacks from compromised Windows 
 Figure 7: Kali Linux (VirtualBox) initiating RDP connection to Windows Server using FreeRDP during attack
 
 
-#Detection Use Cases Implemented
-
+## Detection Use Cases Implemented
 
 •	SSH Brute Force Detection
 
@@ -198,7 +197,7 @@ Figure 7: Kali Linux (VirtualBox) initiating RDP connection to Windows Server us
 •	Endpoint Process Execution Monitoring
 
 
-#Key Skills Demonstrated
+## Key Skills Demonstrated
 
 
 •	SOC monitoring and alerting
@@ -216,7 +215,7 @@ Figure 7: Kali Linux (VirtualBox) initiating RDP connection to Windows Server us
 •	Cloud-based SOC lab deployment
 
 
-#MITRE ATT&CK Coverage 
+## MITRE ATT&CK Coverage 
 
 
 •	T1110 – Brute Force
@@ -230,7 +229,7 @@ Figure 7: Kali Linux (VirtualBox) initiating RDP connection to Windows Server us
 •	T1105 – Ingress Tool Transfer
 
 
-#Lessons Learned
+## Lessons Learned
 
 •	Importance of telemetry quality over alert quantity
 
@@ -240,10 +239,10 @@ Figure 7: Kali Linux (VirtualBox) initiating RDP connection to Windows Server us
 
 •	Practical visibility into attacker behavior through C2 simulation
 
-Disclaimer
+## Disclaimer
 This project was conducted strictly for educational and defensive security purposes within a controlled lab environment. No unauthorized systems were accessed.
 
-
+## Screenshots
  <img width="940" height="312" alt="image" src="https://github.com/user-attachments/assets/15904dba-1c9d-4c19-88fb-63b4de6feeec" />
  
 Figure 1
