@@ -1,7 +1,5 @@
 # 30-Day-MyDFIR-Elastic-Challenge
 
-30-Day MyDFIR Elastic Challenge
-
 
 ## Overview
 
